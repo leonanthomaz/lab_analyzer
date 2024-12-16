@@ -1,0 +1,37 @@
+# Diretório do ambiente virtual
+venv/
+
+# Arquivo de configuração do ambiente
+.env
+
+# Arquivos comuns a serem ignorados
+__pycache__/
+*.py[cod]
+*.log
+
+# Configurações do editor de código
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes do Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.egg-info
+.installed.cfg
+*.egg
+
+# Arquivos temporários de teste
+.coverage
+.tox/
+.nox/
