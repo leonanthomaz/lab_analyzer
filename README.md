@@ -107,5 +107,5 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 ## 🔍 Meta
 
 Autor: **Leonan**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/leonanthomaz) | [GitHub](https://github.com/leonanthomaz)
 
